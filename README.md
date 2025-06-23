@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Project 1**
 
-- 🌱 I’m currently learning **to improve model refinement**
+- 🌱 I’m currently learning **to improve model accuracy**
 
 - 👯 I’m looking to collaborate on **Project 2**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Chandan Pradhan](Chandan Pradhan)
 
-- 💬 Ask me about **Modeling**
+- 💬 Ask me about **Geological Modeling**, **Geostatistical Analysis**, & **Resource Estimation**
 
 - 📫 How to reach me **example@gmail.com**
 
