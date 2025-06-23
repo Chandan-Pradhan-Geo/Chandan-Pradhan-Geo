@@ -1,5 +1,4 @@
 
-# Chandan
 Config files for my GitHub profile.
 <h1 align="center">Hi 👋, I'm Chandan Pradhan</h1>
 <h3 align="center">A passionate Geologist</h3>
