@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-pradhan-geo" &show_icons=true&locale=en" alt="chandan-pradhan-geo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-pradhan-geo" &" alt="chandan-pradhan-geo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-pradhan-geo"&" alt="chandan-pradhan-geo" /></p>
