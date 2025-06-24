@@ -23,6 +23,8 @@
 
 - 📫 How to reach me **example@gmail.com**
 
+🔗 [View Live Portfolio](https://chandan-pradhan-geo.github.io/Chandan_Pradhan_Portfolio/)
+
 - 📄 Know about my experiences [Resume](Resume)
 
 - ⚡ Fun fact **You will get to know about me if you meet ever.**
