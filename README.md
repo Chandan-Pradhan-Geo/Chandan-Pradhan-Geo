@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Pradhan</h1>
-<h3 align="center">A passionate Geologist</h3>
+<h3 align="center">A Passionate Geologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-pradhan-geo&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-pradhan-geo" /> </p>
 
